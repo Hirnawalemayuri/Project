@@ -1,0 +1,80 @@
+*
+{
+    background-color:black;
+}
+.box
+{
+    width : 400px;
+    height : 400px;
+    border : 5px solid gray;
+    border-radius: 20px;
+    margin : 100px auto;
+    color: white;
+}
+h2
+{
+    text-align : center;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.Form
+{
+    margin-left : 30px;
+    width : 300px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 17px;
+    color: white;
+}
+input[type=text]
+{
+    width : 100%;
+    height : 40px;
+    margin-top : 5px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(196, 10, 100);
+    color: white;
+    
+}
+input[type=password]
+{
+    width : 100%;
+    height : 40px;
+    margin-top : 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(196, 10, 100);
+    color : white;
+}
+input[type=submit]
+{
+    margin-top: 20px;
+    margin-left: 60px;
+    background-color: rgb(196, 32, 130);
+    border-radius: 30px;
+    border : 1px solid rgb(196, 32, 130);
+    font-size:20px;
+    width : 70%;
+    height : 30px;
+    color: white;
+}
+input[type=submit]:hover
+{
+    background-color:rgb(196, 10, 100) ;
+}
+.fp h3
+{
+    float : left;
+    font-size: 15px;
+    color: white;
+}
+.fp a
+{
+    margin-top : 15px;
+    margin-left : 5px;
+    float: left;
+    font-size: 16px;
+    text-decoration: none;
+    color: rgb(196, 10, 100);
+}
